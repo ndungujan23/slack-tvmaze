@@ -1,6 +1,7 @@
 # Slack TVMaze :zap:
 
-A slack app that integrates the TVMaze API and the OMDB API to search for both series and movies
+A slack app that integrates the TVMaze API and the OMDB API to search for both series and movies.
+Done using Python in Socket Mode
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ndungujan23/slack-tmdb?style=plastic)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ndungujan23/slack-tmdb?style=plastic)
