@@ -42,7 +42,6 @@ Done using Python in Socket Mode
 
 ## Status & To-Do List
 Still a work in progress ⚠️
-- [ ] Document how to setup slack app
 - [ ] View Movie/Tv Show details
 
 ## License
