@@ -15,7 +15,6 @@ Done using Python in Socket Mode
     * [Screenshots](#screenshots)
     * [Setting up slack app](#setting-up-slack-app)
     * [Setup](#setup)
-    * [Features](#features)
     * [Status & To-Do List](#status--to-do-list)
     * [License](#license)
     * [Contact](#contact)
